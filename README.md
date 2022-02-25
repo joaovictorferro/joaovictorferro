@@ -11,3 +11,5 @@ Here are some ideas to get you started:
   - [🔗 Linkedin](https://www.linkedin.com/in/joao-victor-ribeiro-ferro-a7ab5115b/)
   - [📧 Email](mailto:joaovictorribeiroferro@gmail.com)
 - 🎼 I like to listen to music, watch movies and series and sometimes play games in my free time.
+
+![João Victor Ferro's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaovictorferro&show_icons=true&theme=radical)
